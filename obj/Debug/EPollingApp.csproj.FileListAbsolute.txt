@@ -1,0 +1,14 @@
+C:\Users\NA\source\repos\NewCsharp\EPollingApp\bin\Debug\EPollingApp.exe.config
+C:\Users\NA\source\repos\NewCsharp\EPollingApp\bin\Debug\EPollingApp.exe
+C:\Users\NA\source\repos\NewCsharp\EPollingApp\bin\Debug\EPollingApp.pdb
+C:\Users\NA\source\repos\NewCsharp\EPollingApp\obj\Debug\EPollingApp.csprojAssemblyReference.cache
+C:\Users\NA\source\repos\NewCsharp\EPollingApp\obj\Debug\EPollingApp.csproj.CoreCompileInputs.cache
+C:\Users\NA\source\repos\NewCsharp\EPollingApp\obj\Debug\EPollingApp.exe
+C:\Users\NA\source\repos\NewCsharp\EPollingApp\obj\Debug\EPollingApp.pdb
+C:\Users\NA\source\repos\NewCsharp UDEMY\EPollingApp\bin\Debug\EPollingApp.exe.config
+C:\Users\NA\source\repos\NewCsharp UDEMY\EPollingApp\bin\Debug\EPollingApp.exe
+C:\Users\NA\source\repos\NewCsharp UDEMY\EPollingApp\bin\Debug\EPollingApp.pdb
+C:\Users\NA\source\repos\NewCsharp UDEMY\EPollingApp\obj\Debug\EPollingApp.csprojAssemblyReference.cache
+C:\Users\NA\source\repos\NewCsharp UDEMY\EPollingApp\obj\Debug\EPollingApp.csproj.CoreCompileInputs.cache
+C:\Users\NA\source\repos\NewCsharp UDEMY\EPollingApp\obj\Debug\EPollingApp.exe
+C:\Users\NA\source\repos\NewCsharp UDEMY\EPollingApp\obj\Debug\EPollingApp.pdb
